@@ -15,4 +15,4 @@ This project is designed to scrape data from the Tax Court directory, extracting
 2. find and download pajakspider_data.json
 
 ## Data Sample
-![image](https://github.com/mbintangww/tax-scrapper/assets/115893918/81988b1d-9c0d-4582-8535-99a53316886c)
+![image](https://github.com/mbintangww/tax-scrapper/assets/115893918/91dd3150-fc28-4f68-b8e4-a2a88aa35cb1)
